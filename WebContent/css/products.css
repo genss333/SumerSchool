@@ -1,0 +1,92 @@
+.productsale {
+	transition: transform .25s;
+}
+
+.productsale:hover {
+	transform: scale(1.2);
+}
+
+.viewall {
+	margin-top: 2rem;
+	margin-bottom: 2rem;
+}
+
+.bestprice {
+	align-items: center;
+	background-image:
+		url("https://store.storeimages.cdn-apple.com/8756/as-images.apple.com/is/ipad-pro-og-202104?wid=1200&hei=630&fmt=jpeg&qlt=95&.v=1618674417000");
+	max-height: 40rem;
+	background-size: 100%;
+}
+
+.parallelogram {
+	align-items: center;
+	text-align: center;
+}
+
+.parallelogram h1 {
+	margin-top: 2rem;
+	color: #000;
+	font-family: sans-serif;
+	font-weight: 700;
+	font-size: 5rem;
+}
+
+.parallelogram p {
+	color: #000;
+	font-family: sans-serif;
+	font-size: 2.2rem;
+}
+
+.parallelogram {
+	height: 40rem;
+}
+
+header h2 {
+	font-size: 1rem;
+	font-weight: 600;
+	color: #000;
+}
+
+.field span {
+	color: #000;
+	font-size: .9rem;
+}
+
+.input-min {
+	max-width: 5rem;
+	max-height: 1.5rem;
+	text-align: center;
+	font-size: .85rem;
+	outline: none;
+	border: 1px solid #dedede;
+	-moz-appearance: none;
+}
+
+.input-max {
+	max-width: 5rem;
+	max-height: 1.5rem;
+	text-align: center;
+	font-size: .85rem;
+	outline: none;
+	border: 1px solid #dedede;
+	-moz-appearance: none;
+}
+
+.helpcenter {
+	background-image:
+		url("https://mercular.s3.ap-southeast-1.amazonaws.com/images/articles/2020/07/G-PRO-X-03.jpg");
+}
+
+.footer h6 {
+	color: #000;
+	font-size: 1.3rem;
+	font-weight: 700;
+}
+
+.product-title{
+  	white-space: nowrap;
+  	overflow: hidden;
+  	text-overflow: ellipsis
+}
+

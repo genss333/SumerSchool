@@ -1,0 +1,20 @@
+.header {
+    padding-top: 2rem;
+    padding-bottom: 2rem;
+    text-align: center;
+}
+
+.content-login {
+    max-width: 30rem;
+}
+
+.content-reg {
+    max-width: 40rem;
+}
+
+.sing-up {
+    text-align: center;
+    text-decoration: none;
+    color: #000;
+    font-size: .8rem;
+}
